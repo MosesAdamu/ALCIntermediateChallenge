@@ -1,6 +1,6 @@
 #ALCIntermediateChallenge
 
-Assessment test for Andela's Android Learning Community Intermediate track.
+Assessment test for Andela's Android Learning Community Intermediate track.~~
 
 This challenge is to give the ALC Team an idea of my programming experience on the Android platform.~~~
 
