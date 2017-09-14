@@ -1,8 +1,8 @@
 #ALCIntermediateChallenge
 
-~~Assessment test for Andela's Android Learning Community Intermediate track.~~
+Assessment test for Andela's Android Learning Community Intermediate track.
 
-~~~This challenge is to give the ALC Team an idea of my programming experience on the Android platform.~~~
+This challenge is to give the ALC Team an idea of my programming experience on the Android platform.~~~
 
 This is an Android app that retrieves a list of Java Developers in Lagos using the Github API. 
 The App has the following functionalities:
